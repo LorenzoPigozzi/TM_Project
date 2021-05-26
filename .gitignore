@@ -1,0 +1,47 @@
+
+testset/.ipynb_checkpoints/preprocessing-checkpoint.ipynb
+testset/cs-en/.DS_Store
+testset/cs-en/scores.csv
+testset/de-en/.DS_Store
+testset/de-en/scores.csv
+testset/en-fi/scores.csv
+testset/en-zh/.DS_Store
+testset/en-zh/scores.csv
+testset/ru-en/.DS_Store
+testset/ru-en/scores.csv
+testset/zh-en/.DS_Store
+testset/zh-en/scores.csv
+testset/.DS_Store
+testset tm/testset/zh-en/scores.csv
+testset tm/testset/zh-en/.DS_Store
+testset tm/testset/train-scores.csv
+testset tm/testset/train-relative-ranks.csv
+testset tm/testset/test-scores.csv
+testset tm/testset/test-relative-ranks.csv
+testset tm/testset/ru-en/scores.csv
+testset tm/testset/ru-en/.DS_Store
+testset tm/testset/relative-ranks.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-zh-en.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-tr-en.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-ru-en.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-fi-en.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-et-en.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-en-zh.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-en-tr.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-en-ru.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-en-fi.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-en-et.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-en-de.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-en-cs.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-de-en.csv
+testset tm/testset/humaneval-seg-da/ad-seg-scores-cs-en.csv
+testset tm/testset/en-zh/scores.csv
+testset tm/testset/en-zh/.DS_Store
+testset tm/testset/en-fi/scores.csv
+testset tm/testset/en-fi/.DS_Store
+testset tm/testset/de-en/scores.csv
+testset tm/testset/de-en/.DS_Store
+testset tm/testset/cs-en/scores.csv
+testset tm/testset/cs-en/.DS_Store
+testset tm/testset/.ipynb_checkpoints/preprocessing-checkpoint.ipynb
+testset tm/testset/.DS_Store
